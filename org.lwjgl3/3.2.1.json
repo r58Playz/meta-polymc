@@ -34,13 +34,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -105,13 +105,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -129,53 +129,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
-                    "size": 128801,
-                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
-                },
-                "classifiers": {
-                    "natives-linux": {
-                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
-                        "size": 112350,
-                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
-                    }
-                }
-            },
-            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
-            "natives": {
-                "linux": "natives-linux"
-            },
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-aarch64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
-                    "size": 128801,
-                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -203,7 +157,53 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
+                        "size": 112350,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -328,13 +328,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -399,13 +399,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -423,53 +423,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
-                    "size": 36601,
-                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
-                },
-                "classifiers": {
-                    "natives-linux": {
-                        "sha1": "c6606e57db075ad218a2e78d2416c159a53b6a0c",
-                        "size": 157996,
-                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
-                    }
-                }
-            },
-            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
-            "natives": {
-                "linux": "natives-linux"
-            },
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-aarch64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
-                    "size": 36601,
-                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -497,7 +451,53 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "c6606e57db075ad218a2e78d2416c159a53b6a0c",
+                        "size": 157996,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -622,13 +622,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -693,13 +693,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -717,53 +717,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
-                    "size": 88237,
-                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
-                },
-                "classifiers": {
-                    "natives-linux": {
-                        "sha1": "cf4e303257e82981b8b2e31bba3d7f8f7b8f42b2",
-                        "size": 470743,
-                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
-                    }
-                }
-            },
-            "name": "org.lwjgl:lwjgl-openal:3.3.1",
-            "natives": {
-                "linux": "natives-linux"
-            },
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-aarch64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
-                    "size": 88237,
-                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-openal:3.3.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -791,7 +745,53 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "cf4e303257e82981b8b2e31bba3d7f8f7b8f42b2",
+                        "size": 470743,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -916,13 +916,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -987,13 +987,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1011,7 +1011,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1029,7 +1029,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1103,7 +1103,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1177,7 +1177,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1210,13 +1210,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1281,13 +1281,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1351,7 +1351,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1379,7 +1379,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1443,7 +1443,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1471,7 +1471,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1504,13 +1504,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1575,13 +1575,13 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 },
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1645,7 +1645,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1673,7 +1673,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1737,7 +1737,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -1765,7 +1765,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
