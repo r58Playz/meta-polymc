@@ -23,8 +23,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2022-04-01T11:56:58+00:00",
-            "sha256": "92b6b5ab48ec72140928bba1cf5a1d7d41db72d2a7624f75f8278d818a3ebf11",
+            "releaseTime": "2022-02-17T13:55:59+00:00",
+            "sha256": "a35ce327fa9d995b1645fbbad7950c004217e48a4ba1b92c40b39ce7fae7d7ff",
             "type": "release",
             "version": "3.2.2",
             "volatile": true
