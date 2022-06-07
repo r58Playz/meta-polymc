@@ -134,7 +134,7 @@
                     "natives-linux": {
                         "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
                         "size": 112350,
-                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jar"
                     }
                 }
             },
@@ -180,7 +180,7 @@
                     "natives-linux": {
                         "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
                         "size": 112350,
-                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jar"
                     }
                 }
             },
