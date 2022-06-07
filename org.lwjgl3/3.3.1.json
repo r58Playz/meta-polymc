@@ -30,6 +30,202 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
+                        "size": 112350,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
+                        "size": 112350,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
+                        "size": 112350,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "cbac1b8d30cb4795149c1ef540f912671a8616d0",
+                    "size": 128801,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
+                        "size": 112350,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jars"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-glfw:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -241,6 +437,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -267,6 +475,18 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -295,6 +515,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -321,6 +553,202 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "c6606e57db075ad218a2e78d2416c159a53b6a0c",
+                        "size": 157996,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "c6606e57db075ad218a2e78d2416c159a53b6a0c",
+                        "size": 157996,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "c6606e57db075ad218a2e78d2416c159a53b6a0c",
+                        "size": 157996,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "a817bcf213db49f710603677457567c37d53e103",
+                    "size": 36601,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "c6606e57db075ad218a2e78d2416c159a53b6a0c",
+                        "size": 157996,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -533,6 +961,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -559,6 +999,18 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -587,6 +1039,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -613,6 +1077,202 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "cf4e303257e82981b8b2e31bba3d7f8f7b8f42b2",
+                        "size": 470743,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "cf4e303257e82981b8b2e31bba3d7f8f7b8f42b2",
+                        "size": 470743,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "cf4e303257e82981b8b2e31bba3d7f8f7b8f42b2",
+                        "size": 470743,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "2623a6b8ae1dfcd880738656a9f0243d2e6840bd",
+                    "size": 88237,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "cf4e303257e82981b8b2e31bba3d7f8f7b8f42b2",
+                        "size": 470743,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-openal:3.3.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -825,6 +1485,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -851,6 +1523,18 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -879,6 +1563,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -906,6 +1602,90 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -958,6 +1738,34 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "1c528fb258a6e63e8fceb4482d8db0f3af10a634",
+                        "size": 57908,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "962c2a8d2a8cdd3b89de3d78d766ab5e2133c2f4",
                     "size": 929233,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-opengl.jar"
@@ -1004,6 +1812,34 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "1c528fb258a6e63e8fceb4482d8db0f3af10a634",
+                        "size": 57908,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "962c2a8d2a8cdd3b89de3d78d766ab5e2133c2f4",
                     "size": 929233,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-opengl.jar"
@@ -1050,6 +1886,34 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "1c528fb258a6e63e8fceb4482d8db0f3af10a634",
+                        "size": 57908,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "962c2a8d2a8cdd3b89de3d78d766ab5e2133c2f4",
                     "size": 929233,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-opengl.jar"
@@ -1089,6 +1953,34 @@
                     "action": "allow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "831a5533a21a5f4f81bbc51bb13e9899319b5411",
+                    "size": 921563,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "1c528fb258a6e63e8fceb4482d8db0f3af10a634",
+                        "size": 57908,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-opengl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1117,6 +2009,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -1143,6 +2047,18 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1171,6 +2087,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -1198,51 +2126,17 @@
                     "os": {
                         "name": "osx-arm64"
                     }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "703e4b533e2542560e9f94d6d8bd148be1c1d572",
-                    "size": 113273,
-                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "703e4b533e2542560e9f94d6d8bd148be1c1d572",
-                    "size": 113273,
-                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb.jar"
                 },
-                "classifiers": {
-                    "natives-macos": {
-                        "sha1": "98f0ad956c754723ef354d50057cc30417ef376a",
-                        "size": 178409,
-                        "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb-natives-macos-arm64.jar"
-                    }
-                }
-            },
-            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
-            "natives": {
-                "osx": "natives-macos"
-            },
-            "rules": [
                 {
-                    "action": "allow",
+                    "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1296,6 +2190,52 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "8e8348a1813aad7f30aaf75ea197151ebb7beba9",
+                        "size": 205491,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "703e4b533e2542560e9f94d6d8bd148be1c1d572",
                     "size": 113273,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb.jar"
@@ -1342,6 +2282,52 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "8e8348a1813aad7f30aaf75ea197151ebb7beba9",
+                        "size": 205491,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "703e4b533e2542560e9f94d6d8bd148be1c1d572",
                     "size": 113273,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb.jar"
@@ -1381,6 +2367,144 @@
                     "action": "allow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "8e8348a1813aad7f30aaf75ea197151ebb7beba9",
+                        "size": 205491,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "703e4b533e2542560e9f94d6d8bd148be1c1d572",
+                    "size": 113273,
+                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "703e4b533e2542560e9f94d6d8bd148be1c1d572",
+                    "size": 113273,
+                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb.jar"
+                },
+                "classifiers": {
+                    "natives-macos": {
+                        "sha1": "98f0ad956c754723ef354d50057cc30417ef376a",
+                        "size": 178409,
+                        "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-stb-natives-macos-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "natives": {
+                "osx": "natives-macos"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "b119297cf8ed01f247abe8685857f8e7fcf5980f",
+                    "size": 112380,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "8e8348a1813aad7f30aaf75ea197151ebb7beba9",
+                        "size": 205491,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-stb:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1409,6 +2533,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -1435,6 +2571,18 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1463,6 +2611,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -1490,51 +2650,17 @@
                     "os": {
                         "name": "osx-arm64"
                     }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "1203660b3131cbb8681b17ce6437412545be95e0",
-                    "size": 6802,
-                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "1203660b3131cbb8681b17ce6437412545be95e0",
-                    "size": 6802,
-                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd.jar"
                 },
-                "classifiers": {
-                    "natives-macos": {
-                        "sha1": "015b931a2daba8f0c317d84c9d14e8e98ae56e0c",
-                        "size": 41384,
-                        "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd-natives-macos-arm64.jar"
-                    }
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
-            "natives": {
-                "osx": "natives-macos"
-            },
-            "rules": [
                 {
-                    "action": "allow",
+                    "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1588,6 +2714,52 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "964f628b7a82fd909def086c0dd9a4b84bb259ae",
+                        "size": 42654,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "1203660b3131cbb8681b17ce6437412545be95e0",
                     "size": 6802,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd.jar"
@@ -1634,6 +2806,52 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "964f628b7a82fd909def086c0dd9a4b84bb259ae",
+                        "size": 42654,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "1203660b3131cbb8681b17ce6437412545be95e0",
                     "size": 6802,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd.jar"
@@ -1673,6 +2891,144 @@
                     "action": "allow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "964f628b7a82fd909def086c0dd9a4b84bb259ae",
+                        "size": 42654,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "1203660b3131cbb8681b17ce6437412545be95e0",
+                    "size": 6802,
+                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "1203660b3131cbb8681b17ce6437412545be95e0",
+                    "size": 6802,
+                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd.jar"
+                },
+                "classifiers": {
+                    "natives-macos": {
+                        "sha1": "015b931a2daba8f0c317d84c9d14e8e98ae56e0c",
+                        "size": 41384,
+                        "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-tinyfd-natives-macos-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "natives": {
+                "osx": "natives-macos"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "0ff1914111ef2e3e0110ef2dabc8d8cdaad82347",
+                    "size": 6767,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "964f628b7a82fd909def086c0dd9a4b84bb259ae",
+                        "size": 42654,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1701,6 +3057,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -1727,6 +3095,18 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1755,6 +3135,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -1782,51 +3174,17 @@
                     "os": {
                         "name": "osx-arm64"
                     }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "8e664dd69ad7bbcf2053da23efc7848e39e498db",
-                    "size": 719038,
-                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "8e664dd69ad7bbcf2053da23efc7848e39e498db",
-                    "size": 719038,
-                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl.jar"
                 },
-                "classifiers": {
-                    "natives-macos": {
-                        "sha1": "984df31fadaab86838877b112e5b4e4f68a00ccf",
-                        "size": 42693,
-                        "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-natives-macos-arm64.jar"
-                    }
-                }
-            },
-            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
-            "natives": {
-                "osx": "natives-macos"
-            },
-            "rules": [
                 {
-                    "action": "allow",
+                    "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1880,6 +3238,52 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "b597401014acb7196c76d97e15a6288f54f1f692",
+                        "size": 86308,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "8e664dd69ad7bbcf2053da23efc7848e39e498db",
                     "size": 719038,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl.jar"
@@ -1926,6 +3330,52 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "b597401014acb7196c76d97e15a6288f54f1f692",
+                        "size": 86308,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "sha1": "8e664dd69ad7bbcf2053da23efc7848e39e498db",
                     "size": 719038,
                     "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl.jar"
@@ -1965,6 +3415,144 @@
                     "action": "allow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "b597401014acb7196c76d97e15a6288f54f1f692",
+                        "size": 86308,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "8e664dd69ad7bbcf2053da23efc7848e39e498db",
+                    "size": 719038,
+                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "8e664dd69ad7bbcf2053da23efc7848e39e498db",
+                    "size": 719038,
+                    "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl.jar"
+                },
+                "classifiers": {
+                    "natives-macos": {
+                        "sha1": "984df31fadaab86838877b112e5b4e4f68a00ccf",
+                        "size": 42693,
+                        "url": "https://github.com/MinecraftMachina/lwjgl3/releases/download/3.3.1-mmachina.1/lwjgl-natives-macos-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "natives": {
+                "osx": "natives-macos"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "ae58664f88e18a9bb2c77b063833ca7aaec484cb",
+                    "size": 724243,
+                    "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl.jar"
+                },
+                "classifiers": {
+                    "natives-linux": {
+                        "sha1": "b597401014acb7196c76d97e15a6288f54f1f692",
+                        "size": 86308,
+                        "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl-natives-linux-arm64.jar"
+                    }
+                }
+            },
+            "name": "org.lwjgl:lwjgl:3.3.1-mmachina.1",
+            "natives": {
+                "linux": "natives-linux"
+            },
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
@@ -1993,6 +3581,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -2020,6 +3620,18 @@
                     "os": {
                         "name": "osx-arm64"
                     }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
                 }
             ]
         },
@@ -2046,6 +3658,18 @@
                     "action": "disallow",
                     "os": {
                         "name": "osx-arm64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "linux-aarch64"
                     }
                 }
             ]
