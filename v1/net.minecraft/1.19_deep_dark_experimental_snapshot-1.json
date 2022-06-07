@@ -308,7 +308,7 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -344,7 +344,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -397,7 +397,7 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -433,7 +433,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -488,7 +488,7 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -524,7 +524,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -554,7 +554,7 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
@@ -590,7 +590,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "linux-aarch64"
+                        "name": "linux-arm64"
                     }
                 }
             ]
