@@ -306,7 +306,7 @@
                     "META-INF/"
                 ]
             },
-            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209-mmachina.2",
+            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
             "natives": {
                 "osx": "natives-osx"
             },
@@ -339,7 +339,7 @@
                     "META-INF/"
                 ]
             },
-            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209-mmachina.2",
+            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
             "natives": {
                 "linux": "natives-linux"
             },
@@ -387,7 +387,7 @@
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar"
                 }
             },
-            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209",
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.1",
             "rules": [
                 {
                     "action": "allow",
@@ -405,7 +405,7 @@
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar"
                 }
             },
-            "name": "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209",
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.1",
             "rules": [
                 {
                     "action": "allow",
@@ -450,7 +450,7 @@
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar"
                 }
             },
-            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209",
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1",
             "rules": [
                 {
                     "action": "allow",
@@ -468,7 +468,7 @@
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar"
                 }
             },
-            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209",
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1",
             "rules": [
                 {
                     "action": "allow",
