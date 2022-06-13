@@ -165,7 +165,7 @@
             "name": "org.lwjgl:lwjgl-glfw:3.2.2",
             "natives": {
                 "linux": "natives-linux",
-                "macos": "natives-macos",
+                "osx": "natives-macos",
                 "windows": "natives-windows"
             },
             "rules": [
@@ -449,7 +449,7 @@
             "name": "org.lwjgl:lwjgl-jemalloc:3.2.2",
             "natives": {
                 "linux": "natives-linux",
-                "macos": "natives-macos",
+                "osx": "natives-macos",
                 "windows": "natives-windows"
             },
             "rules": [
@@ -733,7 +733,7 @@
             "name": "org.lwjgl:lwjgl-openal:3.2.2",
             "natives": {
                 "linux": "natives-linux",
-                "macos": "natives-macos",
+                "osx": "natives-macos",
                 "windows": "natives-windows"
             },
             "rules": [
@@ -1017,7 +1017,7 @@
             "name": "org.lwjgl:lwjgl-opengl:3.2.2",
             "natives": {
                 "linux": "natives-linux",
-                "macos": "natives-macos",
+                "osx": "natives-macos",
                 "windows": "natives-windows"
             },
             "rules": [
@@ -1301,7 +1301,7 @@
             "name": "org.lwjgl:lwjgl-stb:3.2.2",
             "natives": {
                 "linux": "natives-linux",
-                "macos": "natives-macos",
+                "osx": "natives-macos",
                 "windows": "natives-windows"
             },
             "rules": [
@@ -1595,7 +1595,7 @@
             "name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
             "natives": {
                 "linux": "natives-linux",
-                "macos": "natives-macos",
+                "osx": "natives-macos",
                 "windows": "natives-windows"
             },
             "rules": [
@@ -1879,7 +1879,7 @@
             "name": "org.lwjgl:lwjgl:3.2.2",
             "natives": {
                 "linux": "natives-linux",
-                "macos": "natives-macos",
+                "osx": "natives-macos",
                 "windows": "natives-windows"
             },
             "rules": [
