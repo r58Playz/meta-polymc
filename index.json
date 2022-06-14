@@ -28,12 +28,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "1fe76076d5cef7a6002d300ff7c469e9771f0108becbc2c519ce3b1c66fdfc41",
+            "sha256": "be0b698d36bd436baf087315cccf772de01cfa67221e3f6d45faf1a9e22f766c",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "0d130f290a349c3102c97aa6e3e4eaa2afb237fd3c1b963daad93a631c3ca27b",
+            "sha256": "8545faf534f4102aee04b822fddd8ce2280bb472ac02ac96064e579889066f27",
             "uid": "org.lwjgl3"
         },
         {

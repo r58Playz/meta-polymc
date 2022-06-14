@@ -266,7 +266,18 @@
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
-            }
+            },
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
         },
         {
             "downloads": {
@@ -289,7 +300,10 @@
             },
             "rules": [
                 {
-                    "action": "allow"
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",
@@ -379,7 +393,18 @@
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar"
                 }
             },
-            "name": "org.lwjgl.lwjgl:lwjgl:2.9.0"
+            "name": "org.lwjgl.lwjgl:lwjgl:2.9.0",
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
         },
         {
             "downloads": {
@@ -392,7 +417,10 @@
             "name": "org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20131017",
             "rules": [
                 {
-                    "action": "allow"
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",
@@ -452,7 +480,18 @@
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar"
                 }
             },
-            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.0"
+            "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.0",
+            "rules": [
+                {
+                    "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
         },
         {
             "downloads": {
@@ -465,7 +504,10 @@
             "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20131017",
             "rules": [
                 {
-                    "action": "allow"
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",

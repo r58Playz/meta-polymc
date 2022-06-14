@@ -270,7 +270,10 @@
             },
             "rules": [
                 {
-                    "action": "allow"
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",
@@ -395,6 +398,12 @@
                 {
                     "action": "disallow",
                     "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "disallow",
+                    "os": {
                         "name": "osx-arm64"
                     }
                 },
@@ -483,7 +492,10 @@
             "name": "org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822",
             "rules": [
                 {
-                    "action": "allow"
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",
@@ -547,6 +559,12 @@
             "rules": [
                 {
                     "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",
@@ -609,7 +627,10 @@
             "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822",
             "rules": [
                 {
-                    "action": "allow"
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",
@@ -673,6 +694,12 @@
             "rules": [
                 {
                     "action": "allow"
+                },
+                {
+                    "action": "disallow",
+                    "os": {
+                        "name": "osx"
+                    }
                 },
                 {
                     "action": "disallow",
