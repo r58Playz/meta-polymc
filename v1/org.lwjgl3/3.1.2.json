@@ -28,21 +28,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -61,6 +52,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -89,6 +83,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -107,6 +104,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -135,6 +135,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -186,21 +189,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -219,6 +213,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -247,6 +244,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -265,6 +265,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -293,6 +296,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -317,21 +323,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -350,6 +347,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -378,6 +378,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -396,6 +399,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -424,6 +430,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -475,21 +484,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -508,6 +508,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -536,6 +539,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -554,6 +560,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -582,6 +591,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -606,21 +618,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -639,6 +642,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -667,6 +673,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -685,6 +694,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -713,6 +725,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -764,21 +779,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -797,6 +803,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -825,6 +834,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -843,6 +855,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -871,6 +886,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -895,21 +913,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -928,6 +937,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -956,6 +968,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -974,6 +989,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1002,6 +1020,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1053,21 +1074,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1086,6 +1098,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1114,6 +1129,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1132,6 +1150,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1160,6 +1181,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1184,21 +1208,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1217,6 +1232,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1245,6 +1263,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1263,6 +1284,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1291,6 +1315,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1342,21 +1369,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1375,6 +1393,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1403,6 +1424,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1421,6 +1445,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1449,6 +1476,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1473,21 +1503,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1506,6 +1527,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1534,6 +1558,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1552,6 +1579,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1580,6 +1610,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1631,21 +1664,12 @@
                 {
                     "action": "disallow",
                     "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1664,6 +1688,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1692,6 +1719,9 @@
                         "name": "osx-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1710,6 +1740,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         },
         {
@@ -1738,6 +1771,9 @@
                         "name": "linux-arm64"
                     }
                 }
+            ],
+            "traits": [
+                "ArchDependent"
             ]
         }
     ],
