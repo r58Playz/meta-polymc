@@ -302,10 +302,7 @@
                     "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.2/text2speech-1.11.2.jar"
                 }
             },
-            "name": "com.mojang:text2speech:1.11.2",
-            "traits": [
-                "ArchDependent"
-            ]
+            "name": "com.mojang:text2speech:1.11.2"
         },
         {
             "downloads": {
@@ -341,10 +338,7 @@
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
-            },
-            "traits": [
-                "ArchDependent"
-            ]
+            }
         },
         {
             "downloads": {
