@@ -55,10 +55,7 @@
                     "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar"
                 }
             },
-            "name": "net.java.dev.jna:jna:5.9.0",
-            "traits": [
-                "ArchDependent"
-            ]
+            "name": "net.java.dev.jna:jna:5.9.0"
         },
         {
             "downloads": {
@@ -68,10 +65,7 @@
                     "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar"
                 }
             },
-            "name": "net.java.dev.jna:jna-platform:5.9.0",
-            "traits": [
-                "ArchDependent"
-            ]
+            "name": "net.java.dev.jna:jna-platform:5.9.0"
         },
         {
             "downloads": {

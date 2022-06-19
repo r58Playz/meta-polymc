@@ -39,10 +39,7 @@
                     "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
                 }
             },
-            "name": "net.java.dev.jna:jna:4.4.0",
-            "traits": [
-                "ArchDependent"
-            ]
+            "name": "net.java.dev.jna:jna:4.4.0"
         },
         {
             "downloads": {
@@ -52,10 +49,7 @@
                     "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.jar"
                 }
             },
-            "name": "net.java.dev.jna:jna-platform:4.4.0",
-            "traits": [
-                "ArchDependent"
-            ]
+            "name": "net.java.dev.jna:jna-platform:4.4.0"
         },
         {
             "downloads": {
