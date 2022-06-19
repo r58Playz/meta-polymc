@@ -312,9 +312,6 @@
                         "name": "linux-arm64"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
             ]
         },
         {
@@ -333,9 +330,6 @@
                         "name": "osx-arm64"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
             ]
         },
         {
@@ -354,9 +348,6 @@
                         "name": "linux-arm64"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
             ]
         },
         {
@@ -405,9 +396,6 @@
                         "name": "linux-arm64"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
             ]
         },
         {
@@ -426,9 +414,6 @@
                         "name": "osx-arm64"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
             ]
         },
         {
@@ -447,9 +432,6 @@
                         "name": "linux-arm64"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
             ]
         },
         {
