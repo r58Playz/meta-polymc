@@ -24,7 +24,7 @@
             ],
             "recommended": false,
             "releaseTime": "2015-08-05T12:22:42+00:00",
-            "sha256": "32c7557ce4cc8c9bad00fafa4d11514dbac0262580815be1e6307e792859c627",
+            "sha256": "fae5c87707a87f5ccbf8a0e8763f7edb9774946b35272933cc1d31ed1aacf45e",
             "type": "release",
             "version": "2.9.2-nightly-20140822",
             "volatile": true
@@ -50,7 +50,7 @@
             ],
             "recommended": false,
             "releaseTime": "2014-01-16T16:36:19+00:00",
-            "sha256": "ab013aa89cef1e4d460855f9e2c34479740a356aa71b8f9080e57737ebf881aa",
+            "sha256": "60107d9d620ff19429340938b524a660da9885b430d58914dacc83e73e412141",
             "type": "release",
             "version": "2.9.1",
             "volatile": true
@@ -63,7 +63,7 @@
             ],
             "recommended": false,
             "releaseTime": "2013-11-21T17:10:33+00:00",
-            "sha256": "913b797f9b0466cb24bb1b9e18c028d51a05b89f3890c80d5fa8760578cb623e",
+            "sha256": "9c47d6b63186cfe177e299acc337fd0efe292d216d062b8fd8f4512549839820",
             "type": "release",
             "version": "2.9.1-nightly-20131120",
             "volatile": true
@@ -76,7 +76,7 @@
             ],
             "recommended": false,
             "releaseTime": "2013-10-23T12:01:07+00:00",
-            "sha256": "e92ddb549156e2173596e780b8bcbcf6667e0e3c5dc854af1dbb7806b3557680",
+            "sha256": "3a314c27e75c44aa718b8a9ce1063be3fb54f7c8c0bbe7f531a13f0c4447ecf4",
             "type": "release",
             "version": "2.9.1-nightly-20131017",
             "volatile": true
@@ -102,7 +102,7 @@
             ],
             "recommended": false,
             "releaseTime": "2013-09-12T14:23:14+00:00",
-            "sha256": "401a8f98f875852cf3ed9ff05fc0276d375588953caadcc29e326033ab0dfec4",
+            "sha256": "299d7650050c40da37e6184b83ee6315a1e3654cb917ef97afa2e04d4e8fe209",
             "type": "release",
             "version": "2.9.1-nightly-20130708-debug3",
             "volatile": true
