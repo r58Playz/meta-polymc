@@ -23,12 +23,12 @@
         },
         {
             "name": "Forge",
-            "sha256": "0d0ecd60818681d07354ebc3966ab71af7ed938d0c68b5fbd17c89fae3007ccb",
+            "sha256": "7d492704e34ab590be98bed8abbf78c6154f0ff3908c4382bdbff390ef5c0e67",
             "uid": "net.minecraftforge"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "2ab21de1f5114102f0273c2d693c76dbe2a3fe1b5f6954822be7c0ba6d7d648f",
+            "sha256": "e3dd028aa2034863a9413f8401ef53d47a5c84003f0af85c54fff2b6a7b1e36a",
             "uid": "org.lwjgl"
         },
         {
