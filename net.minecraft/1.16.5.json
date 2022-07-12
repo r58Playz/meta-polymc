@@ -253,60 +253,7 @@
                     "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
                 }
             },
-            "name": "com.mojang:text2speech:1.11.3",
-            "rules": [
-                {
-                    "action": "allow"
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
-                    "size": 13164,
-                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
-                }
-            },
-            "name": "com.mojang:text2speech:1.11.3",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
-                    "size": 13164,
-                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
-                }
-            },
-            "name": "com.mojang:text2speech:1.11.3",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                }
-            ]
+            "name": "com.mojang:text2speech:1.11.3"
         },
         {
             "downloads": {
@@ -342,60 +289,7 @@
             "natives": {
                 "linux": "natives-linux",
                 "windows": "natives-windows"
-            },
-            "rules": [
-                {
-                    "action": "allow"
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                },
-                {
-                    "action": "disallow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
-                    "size": 13164,
-                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
-                }
-            },
-            "name": "com.mojang:text2speech:1.11.3",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
-                    "size": 13164,
-                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
-                }
-            },
-            "name": "com.mojang:text2speech:1.11.3",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                }
-            ]
+            }
         },
         {
             "downloads": {
@@ -438,9 +332,6 @@
                         "name": "osx"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
             ]
         },
         {
@@ -459,9 +350,24 @@
                         "name": "osx"
                     }
                 }
-            ],
-            "traits": [
-                "ArchDependent"
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "369a83621e3c65496348491e533cb97fe5f2f37d",
+                    "size": 91947,
+                    "url": "https://github.com/MinecraftMachina/Java-Objective-C-Bridge/releases/download/1.1.0-mmachina.1/java-objc-bridge-1.1.jar"
+                }
+            },
+            "name": "ca.weblite:java-objc-bridge:1.1.0",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
             ]
         }
     ],
