@@ -325,12 +325,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "9e05cb6a5f3504235a190ad11ea8981b2cbb901e",
-                    "size": 104806,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/3.5.41/authlib-3.5.41.jar"
+                    "sha1": "508abd09698972233b084d6f2a2346e1da9981ce",
+                    "size": 120100,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/3.10.48/authlib-3.10.48.jar"
                 }
             },
-            "name": "com.mojang:authlib:3.5.41"
+            "name": "com.mojang:authlib:3.10.48"
         },
         {
             "downloads": {
@@ -512,17 +512,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "77644b32a977d5f742431f88eb54b1597314d64e",
-                "size": 21459779,
-                "url": "https://launcher.mojang.com/v1/objects/77644b32a977d5f742431f88eb54b1597314d64e/client.jar"
+                "sha1": "151f225ed7b76e434a5da19a0bc9d094699f1323",
+                "size": 21627275,
+                "url": "https://piston-data.mojang.com/v1/objects/151f225ed7b76e434a5da19a0bc9d094699f1323/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.19-pre4:client"
+        "name": "com.mojang:minecraft:1.19.1-pre5:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2022-05-30T14:43:01+00:00",
+    "releaseTime": "2022-07-15T11:51:44+00:00",
     "requires": [
         {
             "suggests": "3.3.1",
@@ -531,5 +531,5 @@
     ],
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "1.19-pre4"
+    "version": "1.19.1-pre5"
 }
