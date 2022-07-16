@@ -35,9 +35,12 @@
             "name": "org.lwjgl:lwjgl-glfw-natives-macos-arm64:3.3.1",
             "rules": [
                 {
+                    "action": "disallow"
+                },
+                {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
@@ -135,9 +138,12 @@
             "name": "org.lwjgl:lwjgl-jemalloc-natives-macos-arm64:3.3.1",
             "rules": [
                 {
+                    "action": "disallow"
+                },
+                {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
@@ -235,9 +241,12 @@
             "name": "org.lwjgl:lwjgl-natives-macos-arm64:3.3.1",
             "rules": [
                 {
+                    "action": "disallow"
+                },
+                {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
@@ -325,9 +334,12 @@
             "name": "org.lwjgl:lwjgl-openal-natives-macos-arm64:3.3.1",
             "rules": [
                 {
+                    "action": "disallow"
+                },
+                {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
@@ -425,9 +437,12 @@
             "name": "org.lwjgl:lwjgl-opengl-natives-macos-arm64:3.3.1",
             "rules": [
                 {
+                    "action": "disallow"
+                },
+                {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
@@ -525,9 +540,12 @@
             "name": "org.lwjgl:lwjgl-stb-natives-macos-arm64:3.3.1",
             "rules": [
                 {
+                    "action": "disallow"
+                },
+                {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
@@ -625,9 +643,12 @@
             "name": "org.lwjgl:lwjgl-tinyfd-natives-macos-arm64:3.3.1",
             "rules": [
                 {
+                    "action": "disallow"
+                },
+                {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]
