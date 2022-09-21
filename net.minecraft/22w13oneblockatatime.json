@@ -5,10 +5,10 @@
     ],
     "assetIndex": {
         "id": "1.19",
-        "sha1": "29d7f8d440511990e181b549b5b83de87b458e82",
+        "sha1": "b5c7548ddb9e584e84a5f762da5b78211c715a63",
         "size": 385416,
-        "totalSize": 554978141,
-        "url": "https://piston-meta.mojang.com/v1/packages/29d7f8d440511990e181b549b5b83de87b458e82/1.19.json"
+        "totalSize": 555198875,
+        "url": "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
     },
     "compatibleJavaMajors": [
         17,
@@ -454,7 +454,7 @@
                     "url": "https://github.com/MinecraftMachina/Java-Objective-C-Bridge/releases/download/1.1.0-mmachina.1/java-objc-bridge-1.1.jar"
                 }
             },
-            "name": "ca.weblite:java-objc-bridge:1.1.0",
+            "name": "ca.weblite:java-objc-bridge:1.1.0-mmachina.1",
             "rules": [
                 {
                     "action": "allow",
