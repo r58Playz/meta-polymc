@@ -35,12 +35,9 @@
             "name": "org.lwjgl:lwjgl-glfw-natives-macos-arm64:3.3.1",
             "rules": [
                 {
-                    "action": "disallow"
-                },
-                {
                     "action": "allow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "osx"
                     }
                 }
             ]
@@ -138,12 +135,9 @@
             "name": "org.lwjgl:lwjgl-jemalloc-natives-macos-arm64:3.3.1",
             "rules": [
                 {
-                    "action": "disallow"
-                },
-                {
                     "action": "allow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "osx"
                     }
                 }
             ]
@@ -241,12 +235,9 @@
             "name": "org.lwjgl:lwjgl-natives-macos-arm64:3.3.1",
             "rules": [
                 {
-                    "action": "disallow"
-                },
-                {
                     "action": "allow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "osx"
                     }
                 }
             ]
@@ -334,12 +325,9 @@
             "name": "org.lwjgl:lwjgl-openal-natives-macos-arm64:3.3.1",
             "rules": [
                 {
-                    "action": "disallow"
-                },
-                {
                     "action": "allow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "osx"
                     }
                 }
             ]
@@ -437,12 +425,9 @@
             "name": "org.lwjgl:lwjgl-opengl-natives-macos-arm64:3.3.1",
             "rules": [
                 {
-                    "action": "disallow"
-                },
-                {
                     "action": "allow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "osx"
                     }
                 }
             ]
@@ -540,12 +525,9 @@
             "name": "org.lwjgl:lwjgl-stb-natives-macos-arm64:3.3.1",
             "rules": [
                 {
-                    "action": "disallow"
-                },
-                {
                     "action": "allow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "osx"
                     }
                 }
             ]
@@ -643,12 +625,9 @@
             "name": "org.lwjgl:lwjgl-tinyfd-natives-macos-arm64:3.3.1",
             "rules": [
                 {
-                    "action": "disallow"
-                },
-                {
                     "action": "allow",
                     "os": {
-                        "name": "osx-arm64"
+                        "name": "osx"
                     }
                 }
             ]
@@ -735,7 +714,7 @@
                     "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-glfw-natives-linux-arm64:3.3.1",
+            "name": "org.lwjgl:lwjgl-glfw-natives-linux-arm64:3.3.1-lwjgl.1",
             "rules": [
                 {
                     "action": "allow",
@@ -753,7 +732,7 @@
                     "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-jemalloc-natives-linux-arm64:3.3.1",
+            "name": "org.lwjgl:lwjgl-jemalloc-natives-linux-arm64:3.3.1-lwjgl.1",
             "rules": [
                 {
                     "action": "allow",
@@ -771,7 +750,7 @@
                     "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-openal-natives-linux-arm64:3.3.1",
+            "name": "org.lwjgl:lwjgl-openal-natives-linux-arm64:3.3.1-lwjgl.1",
             "rules": [
                 {
                     "action": "allow",
@@ -789,7 +768,7 @@
                     "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-opengl-natives-linux-arm64:3.3.1",
+            "name": "org.lwjgl:lwjgl-opengl-natives-linux-arm64:3.3.1-lwjgl.1",
             "rules": [
                 {
                     "action": "allow",
@@ -807,7 +786,7 @@
                     "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-stb/lwjgl-stb-natives-linux-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-stb-natives-linux-arm64:3.3.1",
+            "name": "org.lwjgl:lwjgl-stb-natives-linux-arm64:3.3.1-lwjgl.1",
             "rules": [
                 {
                     "action": "allow",
@@ -825,7 +804,7 @@
                     "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-linux-arm64:3.3.1",
+            "name": "org.lwjgl:lwjgl-tinyfd-natives-linux-arm64:3.3.1-lwjgl.1",
             "rules": [
                 {
                     "action": "allow",
@@ -843,7 +822,7 @@
                     "url": "https://build.lwjgl.org/release/3.3.1/bin/lwjgl/lwjgl-natives-linux-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-natives-linux-arm64:3.3.1",
+            "name": "org.lwjgl:lwjgl-natives-linux-arm64:3.3.1-lwjgl.1",
             "rules": [
                 {
                     "action": "allow",
@@ -856,7 +835,7 @@
     ],
     "name": "LWJGL 3",
     "order": -1,
-    "releaseTime": "2022-05-30T14:43:01+00:00",
+    "releaseTime": "2022-08-04T10:07:26+00:00",
     "type": "release",
     "uid": "org.lwjgl3",
     "version": "3.3.1",

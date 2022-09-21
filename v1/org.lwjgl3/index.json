@@ -10,8 +10,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2022-05-30T14:43:01+00:00",
-            "sha256": "93b26eff5714892df193e0d3ef3da7d9036507eba3e3b6fd2c031b12590f7548",
+            "releaseTime": "2022-08-04T10:07:26+00:00",
+            "sha256": "4d68cf2d6d1ce650e155933ba224a860e4d4f097b57658bcfa8b566c943a1b07",
             "type": "release",
             "version": "3.3.1",
             "volatile": true
@@ -24,7 +24,7 @@
             ],
             "recommended": false,
             "releaseTime": "2019-06-20T13:23:44+00:00",
-            "sha256": "888701323f34334057b2cdeb53ba2ddf6489527c52cc69c30d405cec233adea0",
+            "sha256": "8ddf30a392927f7eefcea20ffb71e626e30b3662e378afeb5ffb43c5032be8b8",
             "type": "release",
             "version": "3.2.2",
             "volatile": true
@@ -37,7 +37,7 @@
             ],
             "recommended": false,
             "releaseTime": "2019-03-13T13:59:29+00:00",
-            "sha256": "b33f5416b532db3c0329c9a0c63c823dc01635755485444c4bf58839870dbde5",
+            "sha256": "1b853e541264871fe1cbe450131e80aed878e50a7b0198f76fd9b9b23df8bf59",
             "type": "release",
             "version": "3.2.1",
             "volatile": true
@@ -50,7 +50,7 @@
             ],
             "recommended": false,
             "releaseTime": "2019-01-25T12:20:15+00:00",
-            "sha256": "6571fa61fc9a23d165bbd335f6ad13a7e0128021d780e2a28d6c8c2cac4596ea",
+            "sha256": "46669b972866d5d3adf5606d6dd71940f301cbad0eabb28a3fbf8979ee0637a4",
             "type": "release",
             "version": "3.1.6",
             "volatile": true
@@ -63,7 +63,7 @@
             ],
             "recommended": true,
             "releaseTime": "2018-03-13T15:10:59+00:00",
-            "sha256": "5795c8de623ecd37b56ae4815205970f2b4d0484af7c07ab4e33bbbe333791de",
+            "sha256": "8211a6aa92d95d487c2ac46b4a8b202540be029aed9de4fb2301f07bfbf4a90f",
             "type": "release",
             "version": "3.1.2",
             "volatile": true

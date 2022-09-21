@@ -467,7 +467,7 @@
                     "url": "https://github.com/MinecraftMachina/Java-Objective-C-Bridge/releases/download/1.1.0-mmachina.1/java-objc-bridge-1.1.jar"
                 }
             },
-            "name": "ca.weblite:java-objc-bridge:1.1.0",
+            "name": "ca.weblite:java-objc-bridge:1.1.0-mmachina.1",
             "rules": [
                 {
                     "action": "allow",
